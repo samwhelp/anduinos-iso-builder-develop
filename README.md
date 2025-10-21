@@ -1,5 +1,7 @@
 # AnduinOS
 
+* Fork from [AnduinOS](https://github.com/Anduin2017/AnduinOS) / [1.4](https://github.com/Anduin2017/AnduinOS/tree/1.4)
+
 [![GPL licensed](https://img.shields.io/badge/license-GPL-blue.svg)](https://gitlab.aiursoft.cn/anduin/anduinos/-/blob/1.1/LICENSE)
 [![Discussions](https://img.shields.io/badge/discussions-join-blue)](https://github.com/Anduin2017/AnduinOS/discussions)
 [![Join the AnduinOS Community on Revolt](https://img.shields.io/badge/Revolt-Join-fd6671?style=flat-square)](https://rvlt.gg/dPwPs8e6)
